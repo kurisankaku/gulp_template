@@ -1,0 +1,33 @@
+{
+  "name": "gulp_template",
+  "version": "1.0.0",
+  "description": "Gulp template.",
+  "main": "index.js",
+  "scripts": {
+    "gulp": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kurisankaku/gulp_template.git"
+  },
+  "author": {
+    "name": "kurisankaku",
+    "email": "kurisankaku@gmail.com"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kurisankaku/gulp_template/issues"
+  },
+  "homepage": "https://github.com/kurisankaku/gulp_template#readme",
+  "devDependencies": {
+    "eslint": "^3.5.0",
+    "eslint-plugin-react": "^6.2.0",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-eslint": "^3.0.1",
+    "gulp-plumber": "^1.1.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^2.3.2",
+    "gulp-uglify": "^2.0.0"
+  }
+}
